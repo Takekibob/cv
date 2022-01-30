@@ -1,0 +1,16 @@
+body{
+  background-color: powderblue;
+}
+h1{
+  color: #66BF8F;
+}
+h3{
+  color: #66BF8F;
+}
+hr{
+  color: gray;
+  border-style: none;
+  border-top-style: dotted;
+  border-width: 5px;
+  width: 20%;
+}
